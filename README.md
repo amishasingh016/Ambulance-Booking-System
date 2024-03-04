@@ -5,8 +5,10 @@ Ambulance booking system website  based on fastAPI with frontend based on - html
 ## ScreenShots
  
 # Home Screen
+![Untitled3](https://github.com/amishasingh016/Ambulance-Booking-System/assets/113181362/1c193af9-eded-4b9a-8362-7653128f0040)
+
  
-![image](https://github.com/amishasingh016/Ambulance-booking-system/assets/113181362/56ccb92f-86bd-4a6e-a008-9b7c3f9f6075)
+
 
 
 
